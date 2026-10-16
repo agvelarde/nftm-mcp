@@ -1,0 +1,10 @@
+{
+  "name": "nftm",
+  "version": "1.0.1",
+  "description": "Quote an NFTm launch and open a page where the creator signs in Phantom.",
+  "mcpServers": {
+    "NFTm": {
+      "httpUrl": "https://www.nftm.app/api/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.nftm/nftm",
+  "title": "NFTm",
+  "description": "Quote an NFTm launch. The creator signs in Phantom.",
+  "version": "1.0.1",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.nftm.app/api/mcp"
+    }
+  ]
+}
